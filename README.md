@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on fresher
-- 🌱 I’m currently learning Spring Boot and Angular
-- 👯 I’m looking to collaborate on Spring Boot and Angular
+- 🌱 I’m currently learning Spring Boot, .Net Core and Angular
+- 👯 I’m looking to collaborate on Spring Boot, .Net Core and Angular
 - 🤔 I’m looking for help with Docker, Message Queue
 - 💬 Ask me about anything
-- 📫 How to reach me: Email: anonymous0magus@gmail.com - Skype: phuocnguyen - [Twitter] - [Facebook](https://facebook.com)
+- 📫 How to reach me: Email: anonymous0magus@gmail.com - Skype: phuocnguyen - [Twitter]() - [Facebook](https://facebook.com)
 - 😄 Pronouns: Mr
 
 <p align="center">
@@ -46,10 +46,10 @@
       </tr>
       <tr>
          <td align="center" width="20%">
-            <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/800px-Trello-logo-blue.svg.png"> 
+            <img height=65px src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"> 
          </td>
          <td align="center" width="20%">
-            <img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 
+            <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"> 
         </td>
       </tr>
       <tr>
@@ -62,4 +62,3 @@
       </tr>
    </tbody>
 </table>
-
