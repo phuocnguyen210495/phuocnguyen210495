@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Spring Boot and Angular
 - 🤔 I’m looking for help with Docker, Message Queue
 - 💬 Ask me about anything
-- 📫 How to reach me: Email: anonymous0magus@gmail.com - Skype: tamht298 - [Twitter] - [Facebook](https://facebook.com)
+- 📫 How to reach me: Email: anonymous0magus@gmail.com - Skype: phuocnguyen - [Twitter] - [Facebook](https://facebook.com)
 - 😄 Pronouns: Mr
 
 <p align="center">
