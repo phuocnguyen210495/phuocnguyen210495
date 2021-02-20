@@ -72,5 +72,3 @@
 - [Certificate of Completion in Web Application Developer with Java](https://drive.google.com/file/d/10NBBN_zERKvYzbG_XJqAQED_EaczV8Hv/view?usp=sharing)
 - [VITEC's Information Technology Passport](https://drive.google.com/file/d/10Lb5H8ota_Gj_dF0doTa4zXMyLK3VAfh/view?usp=sharing)
 
-
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tamht298&show_icons=true&bg_color=30,0ddeb8,047fd3&title_color=fff&text_color=fff" /></p>
