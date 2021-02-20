@@ -63,9 +63,3 @@
    </tbody>
 </table>
 
-## Certifications
-
-- [TOEIC](https://drive.google.com/file/d/10Rh-AFPgXomWcZkuNRDwkg8_0YtujYLM/view?usp=sharing)
-- [Certificate of Completion in Web Application Developer with Java](https://drive.google.com/file/d/10NBBN_zERKvYzbG_XJqAQED_EaczV8Hv/view?usp=sharing)
-- [VITEC's Information Technology Passport](https://drive.google.com/file/d/10Lb5H8ota_Gj_dF0doTa4zXMyLK3VAfh/view?usp=sharing)
-
