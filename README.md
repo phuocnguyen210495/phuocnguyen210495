@@ -12,9 +12,6 @@
   <a href="https://github.com/phuocnguyen210495?tab=followers">
     <img src="https://img.shields.io/github/followers/phuocnguyen210495?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com">
-    <img src="https://img.shields.io/twitter/follow/label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
   <a href="https://www.youtube.com">
     <img src="https://img.shields.io/youtube/views/7MYMoGLcaMU?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
