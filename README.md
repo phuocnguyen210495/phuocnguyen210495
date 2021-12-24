@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fresher
+- 🔭 I’m currently working on software engineer front-end
 - 🌱 I’m currently learning Spring Boot, .Net Core and Angular
 - 👯 I’m looking to collaborate on Spring Boot, Angular
 - 🤔 I’m looking for help with Docker, Message Queue
