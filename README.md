@@ -54,7 +54,7 @@
       </tr>
       <tr>
          <td align="center" width="20%">
-            <img height=65px src="https://blog.tinohost.com/wp-content/uploads/2019/01/Pengertian-MySQL-Kegunaan-dan-Kelebihan.png"> 
+            <img height=65px src="https://user-images.githubusercontent.com/76574462/149257481-131a5adb-bd7c-4a7a-b53a-38ec113fadca.png"> 
          </td>
          <td align="center" width="20%">
             <img height=65px src="https://miro.medium.com/max/1000/0*dk5CQDYlwNtlMpc7.jpg"> 
